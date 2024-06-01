@@ -1,2 +1,3 @@
 # Applied-Physics-Lab-Project
 Electric Buzzer
+To make an electric buzzer circuit with a resistor, buzzer, battery, switch, and LED, start by connecting the positive terminal of the battery to one terminal of the switch. Then, connect the other terminal of the switch to one terminal of the buzzer. Next, connect the other terminal of the buzzer to one end of the resistor. Attach the other end of the resistor to the anode (positive leg) of the LED. Finally, connect the cathode (negative leg) of the LED to the negative terminal of the battery. Ensure all connections are secure. When you press the switch, the circuit will complete, causing the buzzer to sound and the LED to light up, indicating that the circuit is functioning correctly.
